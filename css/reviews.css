@@ -1,0 +1,58 @@
+.reviews
+{
+   height: 500px;
+   background-color: white;
+   margin-top: 0px;
+}
+.rev{
+   margin-top: 0px;
+   text-align: center;
+    font-size: 40px;
+    margin-bottom: 10px;
+    padding-top: 20px;
+    font-weight: bold;
+   
+}
+.jhonny
+{
+   display: grid;
+   grid-template-columns: 250px 250px 250px;
+   height: 400px;
+   margin-top: 30px;
+   margin-left: 300px;
+   column-gap: 30px;
+}
+.prof1
+{
+   object-position: center;
+   margin-top: 20px;
+   margin-left: 80px;
+   width: 90px;
+}
+.name
+{
+   text-align: center;
+   margin-bottom: 2px;
+   font-weight: bold;
+}
+.company
+{
+   margin-top: 0px;
+   margin-bottom: 0px;
+   text-align: center;
+   font-size: 12px;
+   color: gray;
+}
+.stars
+{
+   margin-top: 8px;
+   text-align: center;
+   margin-bottom: 10px;
+}
+
+.descrip
+{
+   margin-top: 0px;
+   color: gray;
+   font-size: 16px;
+}

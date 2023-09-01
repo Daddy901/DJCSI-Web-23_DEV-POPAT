@@ -1,0 +1,53 @@
+.features
+{
+    position: relative;
+    background-color:  rgb(232, 226, 226);
+    margin-top: 0px;
+    height: 650px;
+}
+.tons
+{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 0px;
+    padding-top: 20px;
+    font-weight: bold;
+
+}
+.a
+{
+    position: absolute;
+    left: 300px;
+    top: 80px;
+}
+.png1
+{
+    width: 40px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+.small
+{
+    font-size: 14px;
+    color: grey;
+}
+.phone
+{
+    position: absolute;
+    left: 650px;
+    top: 100px;
+    width: 200px;
+}
+
+.cd
+{
+    width: 300px;
+    display: inline-block;
+    position: absolute;
+    right: 300px;
+    top: 80px;
+}
+.bud
+{
+    display: inline-block;
+}

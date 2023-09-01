@@ -1,0 +1,50 @@
+.contact
+{
+    height:300px;
+    background-color:  #4018b2;
+}
+.finance
+{
+    font-family: HelveticaNowMTTextRegular, Helvetica, Arial, sans-serif
+    ;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 0px;
+    padding-top: 120px;
+    font-weight: bold;
+    color: white;
+
+}
+.big
+{
+    font-weight: bold;
+}
+.email
+{
+    margin: 0;
+    display: inline-block;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    color: white;
+}
+
+
+.flexbox
+{
+    display: flex;
+    flex-direction: column;
+  
+}
+.mail
+{
+    position: relative;
+    bottom: -5px;
+    margin-left: 550px;
+    margin-right: 3px;
+}
+.numberr
+{
+     position: relative;
+    bottom: -5px;
+    margin-left: 50px;
+}
